@@ -1,4 +1,4 @@
-package com.project.elibraryapp
+package varshinikongara.s3537641.elibraryapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
